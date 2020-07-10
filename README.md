@@ -4,7 +4,7 @@ A Shiny App based application bulit as an CITE-seq analysis tool. It is aimed to
 
 #### Screenshots
 Data Upload
-![Data Upload](https://github.com/shikew/CITE-analysis/blob/master/Screenshots/data upload.png)
+![Data Upload](https://github.com/shikew/CITE-analysis/blob/master/Screenshots/data%20upload.png)
 QC Filter
 ![QC Filter](https://github.com/shikew/CITE-analysis/blob/master/Screenshots/QC%20filter.png)
 Finding Markers
